@@ -6,19 +6,25 @@
 
 .content-mid-header {
   background: #444;
-  width: 475px;
-  height: 100px;
+  /* width: 475px;
+  height: 100px; */
+  width: auto;
+  height: 20%;
 }
 
 .content-container {
-  width: 100px;
-  height: 100px;
+  /* width: 100px;
+  height: 100px; */
+  width: auto;
+  height: 100%;
 }
 
 .content {
   background: #D8D8D8;
   padding: 20px;
-  width: 475px;
-  height: 400px;
+  /* width: 475px;
+  height: 400px; */
   text-align: center;
+  width: auto;
+  height: 80%;
 }
