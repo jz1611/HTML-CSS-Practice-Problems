@@ -8,7 +8,8 @@
 /* Step-2 Add a width, height and display property to make these containers look like the design. */
 .item {
     /*width*/
-    width: calc(50vw - 75px);
+    /* width: calc(50vw - 75px); */
+    width: 40%;
     /*height*/
     height: 200px;
     /*display*/
@@ -21,9 +22,11 @@
 /* Step-2 Add a width, height, and margin property to make these containers look like the design. Remember margin: auto is helpful when trying to center a container. */
 .full-width-item {
     /*width*/
-    width: calc(100vw - 100px);
+    /* width: calc(100vw - 100px); */
+    width: 80%;
     /*height*/
-    height: 150px;
+    /* height: 150px; */
+    height: 200px;
     /*margin*/
     margin:0 auto 30px;
     background: #DED6D3;
@@ -32,9 +35,11 @@
 /* Step-2 Add a width, height, and margin property to make these containers look like the design. Remember margin: auto is helpful when trying to center a container. */
 .large-item {
     /*width*/
-    width: calc(100vw - 100px);
+    /* width: calc(100vw - 100px); */
+    width: 80%;
     /*height*/
-    height: 300px;
+    /* height: 300px; */
+    height: 500px;
     /*margin*/
     margin:0 auto 30px;
     background: #DED6D3;
